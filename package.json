@@ -1,0 +1,20 @@
+{
+  "name": "sistema-de-cadastro-mj",
+  "version": "1.0.0",
+  "description": "sistema de cadastro do ministerio jovem",
+  "homepage": "https://github.com/leonildocruz/sistema-de-cadastro-MJ#readme",
+  "bugs": {
+    "url": "https://github.com/leonildocruz/sistema-de-cadastro-MJ/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonildocruz/sistema-de-cadastro-MJ.git"
+  },
+  "license": "ISC",
+  "author": "Leo Silva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
