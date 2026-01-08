@@ -13,7 +13,6 @@ export const UserForm = () => {
     const { data } = await apiFetch.post("/users", formJson);
     console.log(data);
   };
-
   return (
     <form onSubmit={handleSubmit} className="flex flex-col gap-4 p-4">
       <InputField name="name" label="Nome" />
